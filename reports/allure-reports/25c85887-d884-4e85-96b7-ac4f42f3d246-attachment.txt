@@ -1,0 +1,5 @@
+Message: element click intercepted: Element <a type="button" data-scroll="true" class="commun__Button-mgrfny-0 commun__ButtonContact-mgrfny-1 form__ButtonContact-sc-1ju2h8q-1 gGWtQr">...</a> is not clickable at point (1010, 803). Other element would receive the click: <button class="onUnloadPopup__Button-sc-1mwkper-19 bEukgn">...</button>
+  (Session info: chrome=84.0.4147.89)
+
+There was an exception
+Test Completed
